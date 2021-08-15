@@ -11,7 +11,7 @@ A Simple yet powerfull Dos script
 
 # Installation:
 - Just git clone it using ```git clone https://github.com/Xeroxxhah/DOS.PY.git```
-- Now simply ```python3 dos.py <HOST> <PORT> <no od processes> <type>``` 
+- Now simply ```python3 dos.py <HOST> <PORT> <no of processes> <type>``` 
 ### Bug report
 Found any bug!
 Report it to me at xeroxxhah@pm.me
