@@ -9,10 +9,10 @@
 
 A Simple yet powerfull Dos script.
 
-# Installation:
+## Installation:
 - Just git clone it using ```git clone https://github.com/Xeroxxhah/DOS.PY.git```
 - Dos.py has only one dependency,i.e scapy.you can install it using ```python3 -m pip install scapy```. 
-# Usage:
+## Usage:
 ```
 ██████╗░░█████╗░░██████╗░░░██████╗░██╗░░░██╗
 ██╔══██╗██╔══██╗██╔════╝░░░██╔══██╗╚██╗░██╔╝
@@ -22,9 +22,12 @@ A Simple yet powerfull Dos script.
 ╚═════╝░░╚════╝░╚═════╝░╚═╝╚═╝░░░░░░░░╚═╝░░░
      A simple yet powerful Dos script     VERSION:0.1.0 
     
-Usage: dos.py <IP> <Port> <no of processes> <type>
-Example: dos.py 180.50.44.96 80 5000 S
+Usage: sudo python3 dos.py <IP> <Port> <no of processes> <type>
+Example: sudo python3 dos.py 180.50.44.96 80 5000 S
 ```
+## Note:
+Please specify number of processes acording to your system memory or your system might get hang.
+
 ### Bug report
 Found any bug!
 Report it to me at xeroxxhah@pm.me
