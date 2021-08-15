@@ -7,16 +7,32 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![semver](https://badgen.net/badge/Semantic-Version/0.1.0/purple)
 
-A Simple yet powerfull Dos script
+A Simple yet powerfull Dos script.
 
-# Installation:
+## Installation:
 - Just git clone it using ```git clone https://github.com/Xeroxxhah/DOS.PY.git```
-- Now simply ```python3 dos.py <HOST> <PORT> <no of processes> <type>``` 
+- Dos.py has only one dependency,i.e scapy.you can install it using ```python3 -m pip install scapy```. 
+## Usage:
+```
+██████╗░░█████╗░░██████╗░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██╔════╝░░░██╔══██╗╚██╗░██╔╝
+██║░░██║██║░░██║╚█████╗░░░░██████╔╝░╚████╔╝░
+██║░░██║██║░░██║░╚═══██╗░░░██╔═══╝░░░╚██╔╝░░
+██████╔╝╚█████╔╝██████╔╝██╗██║░░░░░░░░██║░░░
+╚═════╝░░╚════╝░╚═════╝░╚═╝╚═╝░░░░░░░░╚═╝░░░
+     A simple yet powerful Dos script     VERSION:0.1.0 
+    
+Usage: sudo python3 dos.py <IP> <Port> <no of processes> <type>
+Example: sudo python3 dos.py 180.50.44.96 80 5000 S
+```
+## Note:
+Please specify number of processes acording to your system memory or your system might get hang.
+
 ### Bug report
 Found any bug!
 Report it to me at xeroxxhah@pm.me
 or open an [issue](https://github.com/Xeroxxhah/DOS.PY/issues)
 ### Contributions:
-All contributions are welcomed.fork this repo,improve it and [pull requests](https://github.com/Xeroxxhah/W3b3num/pulls)
+All contributions are welcomed.fork this repo,improve it and [pull requests](https://github.com/Justaus3r/DOS.PY/pulls)
 ### License
 Distributed under GPLV3.0
