@@ -5,7 +5,7 @@
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
 [![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://github.com/Justaus3r)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![semver](https://badgen.net/badge/Semantic-Version/2.0.1/purple)
+![semver](https://badgen.net/badge/Semantic-Version/0.1.0/purple)
 
 A Simple yet powerfull Dos script
 
