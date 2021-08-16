@@ -9,7 +9,6 @@
 
 A Simple yet powerfull Dos script.
 
-#### **THIS TOOL IS NOT FOR EDUCATIONAL PURPOSES AND THE AUTHORS DOES NOT TAKE ANY RESPONSIBILITY FOR THE ACTUAL USE OF THIS TOOL.**
 ## Installation:
 - Just git clone it using ```git clone https://github.com/Xeroxxhah/DOS.PY.git```
 - Dos.py has only one dependency,i.e scapy.you can install it using ```python3 -m pip install scapy```. 
@@ -37,3 +36,5 @@ or open an [issue](https://github.com/Xeroxxhah/DOS.PY/issues)
 All contributions are welcomed.fork this repo,improve it and [pull requests](https://github.com/Justaus3r/DOS.PY/pulls)
 ### License
 Distributed under GPLV3.0
+ 
+ #### _This tool is **NOT(YeaH Not)** for educational purposes and the authors does not take any responsibility for the actual use of this tool._
