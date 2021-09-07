@@ -71,6 +71,7 @@ if os.name == 'nt':
         os.remove(r'C:\Windows\System32\Tempo.txt')
     except PermissionError:
         print(f"{colors.red}Please run the script as prviliged user{colors.color_end}")
+        sys.exit(1)
 else:
     if not 'SUDO_UID' in os.environ.keys():
         print(f"{colors.red}Please run the script as prviliged user{colors.color_end}")
